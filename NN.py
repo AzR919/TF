@@ -1,3 +1,5 @@
+# Practice on simple NN in tensorflow
+
 # %%
 # Set imports
 import numpy as np
